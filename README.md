@@ -8,7 +8,6 @@
 https://iello.fr/jeux/schotten-totten/
 
 
-
 Contributeurs:
 - Nathan Piteux
 - Guillaume Hermoso
@@ -16,4 +15,12 @@ Contributeurs:
 - Thomas Leprêtre
 - Bartlomiej Grzadziel
 
+## How to install it
+```bash
+git clone git@github.com:GuillaumeHERMOSO/Schotten-totten.git
+```
 
+Run : 
+```
+main.cpp
+```
