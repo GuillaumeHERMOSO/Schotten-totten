@@ -1688,13 +1688,6 @@ std::string Controleur::revendiquer_borne(int num_borne, bool humain) {
                         }
                     }
             }
-            // TODO temporaire
-            /*cout << "cartes_a1" << endl;
-            affichage_vecteur_carteclan(cartes_a1);
-            cout << "cartes_a2" << endl;
-            affichage_vecteur_carteclan(cartes_a2);
-            cout << "cartes_a3" << endl;
-            affichage_vecteur_carteclan(cartes_a3);*/
 
             for (auto a1: cartes_a1) {
                 for (auto a2: cartes_a2) {
@@ -1832,15 +1825,6 @@ std::string Controleur::revendiquer_borne(int num_borne, bool humain) {
                         }
                     }
             }
-            // TODO temporaire
-            /*cout << "cartes_a1" << endl;
-            affichage_vecteur_carteclan(cartes_a1);
-            cout << "cartes_a2" << endl;
-            affichage_vecteur_carteclan(cartes_a2);
-            cout << "cartes_a3" << endl;
-            affichage_vecteur_carteclan(cartes_a3);
-            cout << "cartes_a4" << endl;
-            affichage_vecteur_carteclan(cartes_a4);*/
 
             for (auto a1: cartes_a1) {
                 for (auto a2: cartes_a2) {
